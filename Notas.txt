@@ -1,1 +1,3 @@
-este é meu primeiro arquivo para Git
+Este é meu primeiro arquivo para Git!
+Segunda alteração no arquivo de notas!
+
